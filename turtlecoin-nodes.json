@@ -141,6 +141,13 @@
       "cache": false
     },
     {
+      "name": "pumba.online Fee equals 1 TRTL",
+      "url": "193.106.131.79",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "SaaPoK TRTL Node",
       "url": "89.234.182.12",
       "port": 11898,
